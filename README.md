@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studying B Tech Computer Science at Adi Shankara Institute of Engineering and Technology. <br>Achieved skills in Digital Marketing, Data Analytics, UI/UX Design. <br>
+Studying B Tech Computer Science at Adi Shankara Institute of Engineering and Technology. <br>Achieved skills in Digital Marketing, Cybersecurity, Data Analytics, UI/UX Design. <br>
 
 
 ## 🌐 Socials:
