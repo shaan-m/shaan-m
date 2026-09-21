@@ -1,5 +1,6 @@
 # 💫 About Me:
-Studying B Tech Computer Science at Adi Shankara Institute of Engineering and Technology. <br>Achieved skills in Digital Marketing, Cybersecurity, Data Analytics, UI/UX Design. <br>
+Currently working as a Research Engineer (AI) at AI CoE for Sustainable Cities (Airawat). 
+<br>Proficient in Full Stack Development and Engineering, Digital Marketing, Cybersecurity, Data Analytics, UI/UX Design. <br>
 
 
 ## 🌐 Socials:
